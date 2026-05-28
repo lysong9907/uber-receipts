@@ -97,6 +97,10 @@ Uber_4625_May_22_2026_4_26_PM.html
 
 UID 前缀用于防止多趟行程时间相同时的文件名冲突。
 
+## 🔗 相关项目
+
+- **[imap-smtp-email](https://github.com/lysong9907/imap-smtp-email)** — 通用 IMAP/SMTP 邮箱技能，本项目的邮箱访问依赖
+
 ## ⚠️ 注意事项
 
 - 计费汇总邮件会自动过滤，不会下载
